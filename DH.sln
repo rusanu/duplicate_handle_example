@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DHServer", "DHServer\DHServer.vcxproj", "{4835C2B6-391F-4551-8884-F1869BFDD9A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DHClient", "DHClient\DHClient.vcxproj", "{3882EFFF-D13B-4416-AF07-622B7C4001CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4835C2B6-391F-4551-8884-F1869BFDD9A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4835C2B6-391F-4551-8884-F1869BFDD9A5}.Debug|Win32.Build.0 = Debug|Win32
+		{4835C2B6-391F-4551-8884-F1869BFDD9A5}.Release|Win32.ActiveCfg = Release|Win32
+		{4835C2B6-391F-4551-8884-F1869BFDD9A5}.Release|Win32.Build.0 = Release|Win32
+		{3882EFFF-D13B-4416-AF07-622B7C4001CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3882EFFF-D13B-4416-AF07-622B7C4001CD}.Debug|Win32.Build.0 = Debug|Win32
+		{3882EFFF-D13B-4416-AF07-622B7C4001CD}.Release|Win32.ActiveCfg = Release|Win32
+		{3882EFFF-D13B-4416-AF07-622B7C4001CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
